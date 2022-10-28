@@ -1,0 +1,285 @@
+
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: #e7faee;
+
+}
+
+div{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+img{
+    display: inline-block;
+    /* width: 500px; */
+    /* margin: 40px; */
+    position: relative;
+    top: 127px;
+    left: 43px;
+
+}
+
+main{
+    margin-left: 90px;
+    display: inline-block;
+    position: relative;
+    top: 134px;
+}
+
+.link-header{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #17233D;
+    margin-left: 36px;
+    margin-top: 48px;
+    text-decoration: none;
+}
+
+.button-header{
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    width: 94px;
+    height: 58px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+h1{
+    width: 582px;
+    height: 164px;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+    color: #161A49;
+}
+
+
+p{
+    width: 493px;
+    height: 99px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+    margin-top: 47px;
+    margin-bottom: 55px;
+
+}
+
+
+a{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    text-decoration: none;
+}
+/* 
+.link-header{
+    text-decoration: none;
+    margin-left: 32px;
+    margin-top: 47px;
+    color: #17233D;
+    border: 30 px solid transparent ;
+}
+
+.button-header{
+    background: #6FBF44;
+    border: 18px solid #6FBF44;
+    border-radius: 12px;
+    margin-top: 32px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    text-align: center;
+    cursor: pointer;
+
+} */
+
+
+/* .link-header:active:not(.button-header){
+    color: rgb(0, 204, 255);
+ }
+
+
+
+.button-header:active{
+    background-color: #c0dfb0;
+    border-color:  #c0dfb0;
+
+} 
+
+span:first-child:hover{
+    color:#ff6f00;
+
+    font-size: 80px;
+    cursor: grab;
+}
+
+span:nth-child(2):hover{
+    color:#1aaee8;
+
+    font-size: 80px;
+    cursor: grab;
+}
+
+span:last-child:hover{
+    color:#ff51e2;
+
+    font-size: 80px;
+    cursor: grab;
+} 
+
+p:hover{
+    color: #b64338;
+}
+
+.learn-more{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    text-decoration: none;
+    margin-top: 55px;
+    cursor: pointer;
+}
+
+.learn-more:hover{
+    color:#FFFFFF;
+    background-color: rgb(16, 60, 154) ;
+   border: 30px solid  rgb(16, 60, 154) ;
+   border-radius: 30px;
+}
+
+.learn-more:active{
+    color:#1f0345;
+    background-color: rgb(59, 111, 225) ;
+   border: 30px solid   rgb(59, 111, 225)  ;
+   border-radius: 30px;
+} 
+
+ */
+
+
+@media screen and (max-width:768px) {
+
+    .link-header{
+        display:none;
+    }
+
+
+
+    p{
+         
+        width: 243px;
+        height: 202px;
+        display: block;
+        text-align: center;
+        left: 18px;
+        margin: 0;
+        font-size: 15px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 18%;
+   
+    }
+
+    
+    
+
+    h1{
+        /* position: absolute; */
+        width: 243px;
+        height: 68px;
+        font-size: 30px;
+        line-height: 1;
+        display: block;
+        text-align: center;
+        left: 18px;
+        margin: 0;
+        margin-left: auto;
+        margin-right: auto;
+      
+     
+    }
+
+    
+    a{
+        display: block;
+        margin: 0 50px;
+    }
+
+    .button-header{
+        display: block;
+        margin: 0;
+        position: relative;
+        top: 30px;
+        margin-left: auto;
+        margin-right: 30px;
+    }
+
+    img{
+        margin: 0;
+        display: block;
+        position: absolute;
+        top: 65%;
+        width: 80%;
+    }
+
+    
+
+}
+
+@media screen and (max-width:400px){
+
+
+    h1{
+        width: 243px;
+        height: 60px;
+        font-size: 30px;
+        line-height: 1;
+        display: block;
+        text-align: center;
+    }
+
+
+    p{
+        width: 243px;
+        display: block;
+        text-align: center;
+        left: 18px;
+        margin: 0;
+        font-size: 15px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    main{
+        position: absolute;
+        margin-left: 20%;
+    }
+
+
+
+
+
+}
+
+ 
