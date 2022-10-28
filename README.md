@@ -16,6 +16,8 @@
 <br>
 <img src="https://github.com/beatrizcdsmartins/WIDE_COVERAGE_OFICIAL/blob/master/assets/mobile_Wide.png"/>
 
+<a href="https://beatrizcdsmartins.github.io/WIDE_COVERAGE_OFICIAL/">:star2:CONFIRA AQUI:star2:</a>
+
 
 
 
