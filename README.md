@@ -9,6 +9,8 @@
 
 
 <img src="https://github.com/beatrizcdsmartins/WIDE_COVERAGE_OFICIAL/blob/master/assets/Desktop_Wide.png"/>
+<br>
+<img src="https://github.com/beatrizcdsmartins/WIDE_COVERAGE_OFICIAL/blob/master/assets/mobile_Wide.png"/>
 
 
 
