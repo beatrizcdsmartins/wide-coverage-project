@@ -255,7 +255,7 @@ p:hover{
     h1{
         width: 243px;
         height: 60px;
-        font-size: 30px;
+        font-size: 25px;
         line-height: 1;
         display: block;
         text-align: center;
@@ -268,7 +268,7 @@ p:hover{
         text-align: center;
         left: 18px;
         margin: 0;
-        font-size: 15px;
+        font-size: 13px;
         margin-left: auto;
         margin-right: auto;
     }
@@ -278,6 +278,20 @@ p:hover{
         margin-left: 20%;
     }
 
+    a{
+        margin: 0 30%;
+        margin-top: -14%;
+        font-size: 14px;
+
+    }
+
+    .button-header{
+        height: 10%;
+    }
+
+    img{
+        width: 75%;
+    }
 
 
 
